@@ -1,0 +1,11 @@
+# Arduino IDE
+*.autosave
+*.bak
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
