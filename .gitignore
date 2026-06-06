@@ -1,11 +1,13 @@
-# Arduino IDE
-*.autosave
-*.bak
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.bin
+*.map
 
 # macOS
 .DS_Store
 
-# Editor files
-*.swp
-*.swo
-*~
+# IDE files
+.vscode/
+*.code-workspace
